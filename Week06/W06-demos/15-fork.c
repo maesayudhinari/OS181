@@ -1,4 +1,5 @@
-/*
+/* Already running by Dhinari
+ *
  * (c) 2016-2017 Rahmat M. Samik-Ibrahim
  * http://rahmatm.samik-ibrahim.vlsm.org/
  * This is free software.
@@ -28,4 +29,3 @@ void main (void) {
       fflush(NULL);
    }
 }
-
